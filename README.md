@@ -5,19 +5,18 @@
 <p>
 
 
-- I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_livingbody@qq.com-c14438?style=plastic&link=mailto:livingbody@qq.com)](mailto:livingbody@qq.com)
-    [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/livingbody/nav/master/static/images/WeChat.jpg)
+- I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 - 🚀 I Love PaddlePaddle:
-    [![Build Status](https://travis-ci.org/PaddlePaddle/Paddle.svg?branch=develop)](https://travis-ci.org/PaddlePaddle/Paddle)
+    [![Build Status](https://img.shields.io/badge/build-dev-brightgreen.svg?style=flat)](https://img.shields.io/badge/build-dev-brightgreen.svg?style=flat)
     [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html)
     [![Documentation Status](https://img.shields.io/badge/中文文档-最新-brightgreen.svg)](https://paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
     [![Release](https://img.shields.io/github/release/PaddlePaddle/Paddle.svg)](https://github.com/PaddlePaddle/Paddle/releases)
-    [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
+    [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
+  ![JavaScript](https://img.shields.io/badge/SpringBoot-black?logo=SpringBoot&logoColor=#6DB33F)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
   ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
   ![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)
@@ -51,12 +50,14 @@
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/livingbody/count.svg) visitor, Thank You!🎉🎉
+You are my ![Visitor Count](https://profile-counter.glitch.me/MrMao14/count.svg) visitor, Thank You!🎉🎉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingbody)](https://github.com/livingbody/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingbody&layout=compact)
-![livingbody's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingbody&show_icons=true)
+<a href="https://github.com/MrMao14/MrMao14">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMao14&layout=compact&count_private=true&card_width=250" , height=150/>
+</a>
+<a href="https://github.com/MrMao14/MrMao14">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrMao14&show_icons=true&card_width=250" , height=150/>
+</a>
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">

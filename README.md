@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Livingbody.
 
 <p align="center">
-<img align="center" src="https://github.com/MrMao14/MrMao14/blob/main/title.png", width=1600,height=300>
+<img align="center" src="https://github.com/MrMao14/MrMao14/blob/main/title_1.png", width=1600>
 <p>
 
 

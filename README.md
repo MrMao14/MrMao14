@@ -7,7 +7,7 @@
 
 - I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
-- 🚀 I Love PaddlePaddle:
+- 🚀 I Love Coding:
     [![Build Status](https://img.shields.io/badge/build-dev-brightgreen.svg?style=flat)](https://img.shields.io/badge/build-dev-brightgreen.svg?style=flat)
     [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html)
     [![Documentation Status](https://img.shields.io/badge/中文文档-最新-brightgreen.svg)](https://paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
@@ -112,10 +112,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MrMao14/count.svg)
 
 <br/>
 <div align="center">
-  <a href="https://raw.githubusercontent.com/livingbody/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
+Thanks
 </div>

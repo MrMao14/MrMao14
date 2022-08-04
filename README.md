@@ -12,7 +12,7 @@
     [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html)
     [![Documentation Status](https://img.shields.io/badge/中文文档-最新-brightgreen.svg)](https://paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
     [![Release](https://img.shields.io/github/release/PaddlePaddle/Paddle.svg)](https://github.com/PaddlePaddle/Paddle/releases)
-    [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+    [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
 
 
 - 🚀 I use daily:
